@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cc234e1-4695-4222-b976-a9fe0b7d8896" name="Changes" comment="" />
+    <list default="true" id="2cc234e1-4695-4222-b976-a9fe0b7d8896" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.unreal_repos.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unreal_repos.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +37,9 @@
       <updated>1675773557586</updated>
       <workItem from="1675773559648" duration="3000" />
       <workItem from="1675795795528" duration="299000" />
+      <workItem from="1675845756067" duration="3663000" />
+      <workItem from="1675855620448" duration="2637000" />
+      <workItem from="1675864096917" duration="1198000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1675795897419</created>
@@ -43,7 +48,63 @@
       <option name="project" value="LOCAL" />
       <updated>1675795897419</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gitTestMap.umap created">
+      <created>1675846197431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675846197431</updated>
+    </task>
+    <task id="LOCAL-00003" summary="testing git">
+      <created>1675847009637</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675847009637</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2 new folders with 2 different objects">
+      <created>1675847271712</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675847271712</updated>
+    </task>
+    <task id="LOCAL-00005" summary="testing">
+      <created>1675849387142</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675849387142</updated>
+    </task>
+    <task id="LOCAL-00006" summary="work in objects directory">
+      <created>1675855994867</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675855994867</updated>
+    </task>
+    <task id="LOCAL-00007" summary="some changes">
+      <created>1675856453993</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675856453993</updated>
+    </task>
+    <task id="LOCAL-00008" summary="some work on map">
+      <created>1675857552847</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675857552847</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new mat and work on scene">
+      <created>1675857843418</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675857843418</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +126,14 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+    <MESSAGE value="gitTestMap.umap created" />
+    <MESSAGE value="testing git" />
+    <MESSAGE value="2 new folders with 2 different objects" />
+    <MESSAGE value="testing" />
+    <MESSAGE value="work in objects directory" />
+    <MESSAGE value="some changes" />
+    <MESSAGE value="some work on map" />
+    <MESSAGE value="new mat and work on scene" />
+    <option name="LAST_COMMIT_MESSAGE" value="new mat and work on scene" />
   </component>
 </project>
